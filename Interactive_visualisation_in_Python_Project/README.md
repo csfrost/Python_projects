@@ -180,7 +180,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **CSFrost**
 - GitHub: [@csfrost](https://github.com/csfrost)
-- Portfolio: [Python Projects](https://github.com/csfrost/Python)
+- Portfolio: [Python Projects](https://github.com/csfrost/Python_projects)
 
 ## Contact
 
